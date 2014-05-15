@@ -1,0 +1,25 @@
+{
+  "name": "beachmap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/andrewwoodard/beachwood",
+  "authors": [
+    "andrewwoodard <andrew.woodard1@gmail.com>"
+  ],
+  "description": "An angular mapping application using google maps.",
+  "main": "index.html",
+  "keywords": [
+    "beach",
+    "map",
+    "angular",
+    "google",
+    "maps"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
